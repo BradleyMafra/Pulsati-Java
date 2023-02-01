@@ -1,0 +1,10 @@
+Criar um projeto para cara exercicio abaixo
+
+// Projeto exercicio2 Computador(int memoria, String processador)
+// Projeto exercicio3 Aluno( double nota, String nome)
+// Projeto exercicio4 Casa(int metrosQuadrados, String cor)
+// Projeto exercicio5 Carro(int litrosTanque, String Montadora)
+// Projeto exercicio6 Professor(String nome, String curso)
+
+// Criar o metodo imprimir para cada exercicio acima
+// Criar 2 objetos para cada classe
